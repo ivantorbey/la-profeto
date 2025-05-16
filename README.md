@@ -1,4 +1,4 @@
-# 📖 La Profeto – Traduko en Esperanto
+# La Profeto – Traduko en Esperanto
 
 **La Profeto** estas traduko en Esperanto de la verko *The Prophet* de Kahlil Gibran.
 
