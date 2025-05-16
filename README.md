@@ -12,10 +12,12 @@ Permesilo: MIT
 
 ##  Elŝuti / Télécharger / Download
 
+### EPUB
 <a href="./la-profeto.epub" style="display:inline-block;padding:12px 24px;background-color:#2c974b;color:white;text-decoration:none;border-radius:6px;font-weight:bold;margin-bottom:10px;">
  Elŝuti la EPUB-dosieron
 </a>
 
+### HTML / EPUB
 <a href="./la-profeto.html" style="display:inline-block;padding:12px 24px;background-color:#007acc;color:white;text-decoration:none;border-radius:6px;font-weight:bold;">
  Elŝuti la HTML-dosieron
 </a>
